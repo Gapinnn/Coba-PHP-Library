@@ -1,0 +1,19 @@
+{
+    "name": "gavinathawisesa/php-composer-library-hello",
+    "description": "Library PHP Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gavinathawisesa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PonAtha10",
+            "email": "222112069@stis.ac.id"
+        }
+    ],
+    "require": {
+        "php" : ">=8.0"
+    }
+}
